@@ -4,7 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-<br>
 
 Preprints
 =====

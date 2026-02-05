@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Yuxuan Chen"
 author_profile: true
 redirect_from: 
   - /about/

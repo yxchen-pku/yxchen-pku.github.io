@@ -3,6 +3,8 @@ layout: archive
 title: Teaching
 permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - "/teaching.html"
 ---
 
 I am currently a teaching assistant on the 3-semester undergraduate course Mathematical Analysis at Peking University.   

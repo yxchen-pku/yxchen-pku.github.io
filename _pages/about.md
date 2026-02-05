@@ -12,7 +12,7 @@ I am a PhD student in the School of Mathematical Sciences at Peking University, 
 Education
 ======
 2018—2022, Peking University, Bachelor  
-2022—now, Peking University, PhD
+2022—2027, Peking University, PhD
 
 Topics of Interest
 ======

@@ -15,7 +15,8 @@ Education
 2022—now, Peking University, PhD
 
 Topics of Interest
-======  
+======
+
 Infinite-dimensional Random Dynamical Systems
 -----
 Ergodicity theory is concerned with the uniqueness of the invariant measure and its mixing properties. Heuristically, the mechanism for unique ergodicity is the balance between randomness (spreading out trajectories) and dissipation (concentrating to the origin). In infinite-dimensional spaces, lack of compactness presents a core obstacle. Inspired by attractor in dynamical systems, we exploit the concept of 'asymptotic tightness' to establish general criteria for mixing and large deviations.

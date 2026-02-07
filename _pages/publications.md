@@ -8,10 +8,13 @@ redirect_from:
 
 Any comments are welcome!
 
-Preprints
+Journal Papers
 =====
 
-[3]  **Donsker-Varadhan large deviation principle for locally damped and randomly forced NLS equations** (with Shengquan Xiang), [arXiv:2510.24119](https://arxiv.org/abs/2510.24119), to appear in Ann. Henri Poincaré
+[1]  **Donsker-Varadhan large deviation principle for locally damped and randomly forced NLS equations** (with Shengquan Xiang), [Ann. Henri Poincaré (2026)](https://link.springer.com/article/10.1007/s00023-026-01663-6). [(arXiv link)](https://arxiv.org/abs/2510.24119)
+
+Preprints
+=====
 
 [2] **Exponential mixing for the randomly forced NLS equation** (with Shengquan Xiang, Zhifei Zhang, Jia-Cheng Zhao), [arXiv:2506.10318](https://arxiv.org/abs/2506.10318)
 

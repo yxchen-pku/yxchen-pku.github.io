@@ -26,4 +26,4 @@ We investigate nonlinear wave, Schrödinger and KdV equations, and identify the 
 It seems unlikely that I will study interdisciplinarity in the near future. But, in my opinion, this is always the source of the best mathematics. Here are some of my favourites, though I cannot fully understand any of them: Weil's conjecture ('Riemann's conjecture on finite fields'), the Atiyah–Singer index theorem (the Fredholm index of an elliptic pseudodifferential operator from a cohomology viewpoint) and algebraic quantum unique ergodicity (the delocalisation of Laplace eigenfunctions on algebraic hyperbolic surfaces).
 
 -----
-<q>我认为我们该做的事是把一切已知的事都想明白，然后再去解偏微分方程不迟。</q> &#8211;王小波《2010》
+<font size="2"><q>我认为我们该做的事是把一切已知的事都想明白，然后再去解偏微分方程不迟。</q> &#8211;王小波《2010》</font>

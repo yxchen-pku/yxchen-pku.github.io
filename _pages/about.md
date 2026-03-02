@@ -26,6 +26,7 @@ We investigate nonlinear wave, Schrödinger and KdV equations, and identify the 
 It seems unlikely that I will study interdisciplinarity in the near future. But, in my opinion, this is always the source of the best mathematics. Here are some of my favourites, though I cannot fully understand any of them: Weil's conjecture ('Riemann's conjecture on finite fields'), the Atiyah–Singer index theorem (the Fredholm index of an elliptic pseudodifferential operator from a cohomology viewpoint) and algebraic quantum unique ergodicity (the delocalisation of Laplace eigenfunctions on algebraic hyperbolic surfaces).
 
 -----
-<font size="3"><q>I think what we should do is make sense of all the known facts. Then it won't be too late to solve partial differential equations.</q>—Wang Xiaobo, <i>2010</i></font>
+
+<font size="3"><q>I think what we should do is make sense of all the known facts. Then it won't be too late to solve partial differential equations.</q>—Wang Xiaobo, <i>2010</i></font>  
 
 <font size="3"><q>...the heart of the matter is knowing whether evil (or sin or crime or whatever you want to call it) is random or purposeful. If it's purposeful, we can fight it, it's hard to defeat, but we have a chance, like two boxers in the same weight class, more or less. If it's random, on the other hand, we're fucked, and we'll just have to hope that God, if He exists, has mercy on us.</q> —Roberto Bolaño, <i>The Savage Detectives</i></font>

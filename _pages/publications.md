@@ -16,6 +16,8 @@ Journal Papers
 Preprints
 =====
 
+[3] **Exponential mixing for nonlinear Schrödinger equations perturbed by bounded degenerate noise** (with Shengquan Xiang, Zhifei Zhang), [arXiv:2604.05911](https://arxiv.org/abs/2604.05911)
+
 [2] **Exponential mixing for the randomly forced NLS equation** (with Shengquan Xiang, Zhifei Zhang, Jia-Cheng Zhao), [arXiv:2506.10318](https://arxiv.org/abs/2506.10318)
 
 [1] **Local large deviations for randomly forced nonlinear wave equations with localized damping** (with Ziyu Liu, Shengquan Xiang, Zhifei Zhang), [arXiv:2409.11717](https://arxiv.org/abs/2409.11717)

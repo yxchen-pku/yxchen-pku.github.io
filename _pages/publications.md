@@ -11,9 +11,9 @@ Any comments are welcome!
 Journal Papers
 =====
 
-[2] **Exponential mixing for the randomly forced NLS equation** (with Shengquan Xiang, Zhifei Zhang, Jia-Cheng Zhao), accepted to Commun. Math. Phys. [(arXiv link)](https://arxiv.org/abs/2506.10318)
+[2] **Exponential mixing for the randomly forced NLS equation** (with Shengquan Xiang, Zhifei Zhang, Jia-Cheng Zhao), [Commun. Math. Phys. **407**, 211 (2026)](https://link.springer.com/article/10.1007/s00220-026-05732-z). 
 
-[1]  **Donsker-Varadhan large deviation principle for locally damped and randomly forced NLS equations** (with Shengquan Xiang), [Ann. Henri Poincaré (2026)](https://link.springer.com/article/10.1007/s00023-026-01663-6). [(arXiv link)](https://arxiv.org/abs/2510.24119)
+[1]  **Donsker-Varadhan large deviation principle for locally damped and randomly forced NLS equations** (with Shengquan Xiang), [Ann. Henri Poincaré, online first (2026)](https://link.springer.com/article/10.1007/s00023-026-01663-6). 
 
 Preprints
 =====

@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<center>
-
 # Yuxuan Chen（陈宇轩）
 
-**School of Mathematical Sciences, Peking University**  
+School of Mathematical Sciences, Peking University  
 Email: <chen_yuxuan@pku.edu.cn>
-
-</center>
 
 ## Education
 
@@ -24,8 +20,6 @@ Email: <chen_yuxuan@pku.edu.cn>
   <span style="display:inline-block; width:6em;">2022--2027</span> <strong>Ph.D.</strong>, Pure Mathematics, <em>SMS, Peking University</em><br>
   <span style="display:inline-block; width:6em;"></span> Advisors: Zhifei Zhang（章志飞）, Shengquan Xiang（向圣权）
 </div>
-
-<br>
 
 <div>
   <span style="display:inline-block; width:6em;">2018--2022</span> <strong>B.Sc.</strong>, Mathematics and Applied Mathematics, <em>SMS, Peking University</em><br>

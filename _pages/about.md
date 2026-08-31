@@ -27,3 +27,5 @@ To investigate dispersive equations, such as Schrödinger and KdV, we need to co
 <q>I think what we should do is make sense of all the known facts. Then it won't be too late to solve partial differential equations.</q>—Wang Xiaobo, <i>2010</i>  
 
 <q>...the heart of the matter is knowing whether evil (or sin or crime or whatever you want to call it) is random or purposeful. If it's purposeful, we can fight it, it's hard to defeat, but we have a chance, like two boxers in the same weight class, more or less. If it's random, on the other hand, we're fucked, and we'll just have to hope that God, if He exists, has mercy on us.</q> —Roberto Bolaño, <i>The Savage Detectives</i>
+
+<q>And on the car’s antenna the red-cross flag waved madly, and you moved at fifty-five miles an hour toward the lights that kept growing, not knowing why all this hurry, why this mad race in the night among unknown cars, where no one knew anything about the others, where everyone looked straight ahead, only ahead.</q> —Julio Cortázar, <i>The Southern Thruway</i>

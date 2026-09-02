@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<p>These short essays were written for fun, and should be enjoyable with only a basic undergraduate math background. Some were originally written in Chinese and later AI-translated. But I never let AI generate an entire essay, because that would spoil the fun.</p>
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

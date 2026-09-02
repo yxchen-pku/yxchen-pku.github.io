@@ -8,10 +8,6 @@ tags:
   - Continuity Point
 ---
 
-# The van der Waerden Theorem, Multiple Recurrence, and Pointwise Limits of Sequences of Continuous Functions
-
----
-
 **Disclaimer.** The proof of the van der Waerden theorem presented here is due to Hillel Furstenberg and Benjamin Weiss [1]; its foundation is the correspondence between Ramsey-theoretic problems and multiple recurrence in dynamical systems established by Furstenberg in [2] (later known as the Furstenberg correspondence). I learned this proof from Manfred Einsiedler's course *Dynamical Systems and Ergodic Theory* at ETH Zurich. Since I was already familiar with the idea of the Furstenberg correspondence, the part of the proof that surprised me was the use of the existence of continuity points.
 
 **Prerequisites.** Metric spaces, continuous maps, compactness.

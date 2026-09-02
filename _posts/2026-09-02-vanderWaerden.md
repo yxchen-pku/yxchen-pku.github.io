@@ -2,6 +2,7 @@
 title: 'The van der Waerden Theorem, Multiple Recurrence, and Pointwise Limits of Sequences of Continuous Functions'
 date: 2026-09-02
 permalink: /posts/20260902
+mathjax: true
 excerpt: "An exposition of Furstenberg and Weiss's dynamical proof of van der Waerden's theorem, with an unexpected role of continuity points."
 tags:
   - van der Waerden Theorem
